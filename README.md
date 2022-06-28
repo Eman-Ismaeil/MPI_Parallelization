@@ -4,7 +4,7 @@ The upper value of i and the value of x are inputted from the user
 The program makes the computation by dividing i equally among the processes, it uses n processes to do this computation, where n is provided as input by user. Then, it displays the computed value of cos(x). 
 The value of cos(x) and the time taken by the program to compute it are displayed. 
 
-##Requirements:
+## Requirements:
 
 1-Install Visual Studio 2019
 
@@ -14,7 +14,7 @@ just run the code on the IDE
 3-For MPI pararllelization code:
 video link for installation of MPI and linking with Visual Studio: https://www.youtube.com/watch?v=BA_Mqi3a9HI
 
-##Steps:
+## Steps:
 
 1-Download mpi sdks --> Microsoft MPI
 
